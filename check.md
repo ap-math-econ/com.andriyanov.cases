@@ -10,9 +10,7 @@
 ##### There are multiple reasons why doing it in markdown is good (line starting with two underscores means new slide with its title)
 
 !component Principles of suggested cooperation
-
 !element viz_text
-
 !mainline Why do this 
 
 * Reason 1
